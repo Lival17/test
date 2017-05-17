@@ -1,6 +1,10 @@
 body{
     font-family: "Arial";
+<<<<<<< HEAD
     background-color: orange;
+=======
+    background-color: yellow;
+>>>>>>> titre
 }
 
 .clearfix{
